@@ -13,7 +13,8 @@ return a-b
 }
 console.log(resta(3,8))
 
-const prod =(a=1, b=1) =>{return a*b}
+const prod =(a=1, b=1) =>{
+    return a*b}
 
 console.log(prod(4,6))
 
